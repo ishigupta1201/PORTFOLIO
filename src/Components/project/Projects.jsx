@@ -120,7 +120,7 @@ const Projects = () => {
             <div className="services__content">
                 <div>
                     <i className="bx bx-wallet services__icon"></i>
-                    <h3 className="services__title">Finance <br/>Budgeting Application </h3>
+                    <h3 className="services__title">Finance Budgeting<br/> Application </h3>
                 </div>
 
                 <span className="services__button" onClick={() => toggleTab(3)}>
