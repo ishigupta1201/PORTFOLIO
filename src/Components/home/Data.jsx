@@ -1,16 +1,16 @@
 import React from 'react'
-import hand_icon from '../../assets/hand.svg'
+// import hand_icon from '../../assets/hand.svg'
 import "./Home.css";
 
 const Data = () => {
   return (
     <div className="home__data ">
         <h1 className="home__title">Ishi Gupta
-            <img src={hand_icon} alt="Hands" className="w-16 h-16 home__hand" />
+            {/* <img src={hand_icon} alt="Hands" className="w-16 h-16 home__hand" /> */}
         </h1>
 
-        <h3 className="home__subtitle">Web Developer</h3>
-        <p className="home__descreption">I'm creative developer based in New Delhi, India; and I'm very passionate and dedicated to my work</p>
+        <h3 className="home__subtitle">Full Stack Developer</h3>
+        <p className="home__descreption">"Hey there! I'm a Full-Stack Developer who loves building user-friendly applications with MERN stack, Java, and a touch of creative problem-solving!"</p>
 
         <a href="#contact" className="button button--flex mt-4 flex items-center gap-5 px-0 py-3">
             <p className='px-5'>Say Hello</p>

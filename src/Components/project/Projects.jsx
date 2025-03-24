@@ -155,7 +155,7 @@ const Projects = () => {
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info"><strong>Scalable Backend -</strong> Built <strong>RESTfu </strong> <strong>APIs</strong> for seamless transaction management and performance optimization.</p>
+                                <p className="services__modal-info"><strong>Scalable Backend -</strong> Built <strong>RESTful </strong> <strong>APIs</strong> for seamless transaction management and performance optimization.</p>
                             </li>
 
                             <li className="services__modal-service">

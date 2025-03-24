@@ -16,9 +16,7 @@ const About = () => {
             <div className="about__data">
                 <Info/>
 
-                <p className="about__description"> I am a Web Developer passionate about building efficient, scalable, and user-focused web applications. With a strong
- foundation in computer science, I thrive on tackling dynamic challenges, managing projects, solving problems, and
- collaborating seamlessly with teams to deliver impactful solutions.</p>
+                <p className="about__description"> "Full-Stack Developer with a strong foundation in the MERN stack, Java, and backend optimizations. Passionate about building scalable, efficient, and user-centric applications, with experience in developing e-commerce platforms, real-time chat applications, and finance management tools. Always eager to solve complex problems, optimize performance, and create seamless digital experiences."</p>
 
                 <a download="" href={CV} className="button button--flex">
                     Download CV
